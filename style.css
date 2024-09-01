@@ -43,6 +43,7 @@ body{
 
 .todo-item-container {
     margin-top: 15px;
+    padding: 0px;
 }
 
 .label-container {
